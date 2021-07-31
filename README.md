@@ -41,6 +41,11 @@ Implement any of the following features to improve the application:
     <p>LifeTracker - Watch Video</p>
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f46f615149794de1bf8ecbaf5e77de53-with-play.gif">
   </a>
+  
+  <a href="https://www.loom.com/share/5fe0d90ac82d429b9e043b3b8e4a5bf4">
+    <p>LifeTracker included registration - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5fe0d90ac82d429b9e043b3b8e4a5bf4-with-play.gif">
+  </a>
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
